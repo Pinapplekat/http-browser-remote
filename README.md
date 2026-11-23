@@ -1,4 +1,7 @@
-# pinapplekat/getwebsiteimage
+# http-browser-remote
+
+Control a headless browser over HTTP (March 2023). The server drives Chrome with Puppeteer: request a URL and get back a screenshot, send key presses and keybinds, and change the viewport, all through plain GET requests, so even a very basic client can browse the web.
+
 ## Get Started
 ### Run script
 Make sure you have the lastest version of node.js installed. You can install it [here](https://nodejs.org/)  
